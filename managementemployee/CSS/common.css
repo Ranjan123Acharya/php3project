@@ -1,0 +1,25 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.h-font {
+    font-family: 'Merienda', cursive;
+}
+
+.h-line{
+    width: 150px;
+    margin: 0 auto;
+    height: 1.7px;
+}
+
+.menu-bar {
+    background-color: linear-gradient(-90deg, #d38312, #a83279);
+}
+
+.nav-link {
+    font-size: 16px;
+    margin: 3px;
+    color: #fff!important;
+    font-weight: 500;
+}
+
